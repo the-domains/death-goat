@@ -1,0 +1,23 @@
+name: Death Goat
+favicon: null
+layout_spectrum: 0.39668413484469056
+typography_spectrum: 0.11707700579427183
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9683784106746316
+  lightness: 0.3504986073821783
+  saturation: 0.3948216438293457
+  rhythmicContrast: 0.578471181448549
+purpose: []
