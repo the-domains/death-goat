@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Death Goat]]></title>
         <description><![CDATA[Death Goat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/death-goat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 05:00:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 05:05:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/death-goat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d0e140-25d7-4ce0-85f9-3f2ac13c2cdb.png">]]></description>
+            <link>https://thegrid.ai/death-goat/afd40c76-1164-4d91-8b87-d65575dbb9d3/index.html</link>
+            <guid isPermaLink="false">afd40c76-1164-4d91-8b87-d65575dbb9d3</guid>
+            <pubDate>Wed, 11 Nov 2015 05:05:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It is once again time to DESTROY!]]></title>
             <description><![CDATA[<article><h1>It is once again time to DESTROY!</h1><p>Soon on Steam for PC & Mac</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76a48e6-1eea-408b-a7b4-c9f656fc6c18.gif"></article>]]></description>
-            <link>undefinedit-is-once-again-time-to-destroy/index.html</link>
+            <link>https://thegrid.ai/death-goat/it-is-once-again-time-to-destroy/index.html</link>
             <guid isPermaLink="false">befa5e03-9083-46fd-8fcf-bec7f9c4c1b8</guid>
             <pubDate>Wed, 11 Nov 2015 05:00:07 GMT</pubDate>
         </item>
