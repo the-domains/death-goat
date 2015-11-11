@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Death Goat]]></title>
+        <description><![CDATA[Death Goat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 05:00:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It is once again time to DESTROY!]]></title>
+            <description><![CDATA[<article><h1>It is once again time to DESTROY!</h1><p>Soon on Steam for PC & Mac</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76a48e6-1eea-408b-a7b4-c9f656fc6c18.gif"></article>]]></description>
+            <link>undefinedit-is-once-again-time-to-destroy/index.html</link>
+            <guid isPermaLink="false">befa5e03-9083-46fd-8fcf-bec7f9c4c1b8</guid>
+            <pubDate>Wed, 11 Nov 2015 05:00:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
